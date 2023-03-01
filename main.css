@@ -1,0 +1,27 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    background-color: #ffffff;
+    padding: 10px;
+    margin: -10px;
+}
+
+.hero_section{
+    padding: 130px 0;
+    max-width: 1200px;
+    margin:auto;
+    background-color: #22222200;
+    color: #ffffff;
+    text-align: center;
+    font-family: montserrat;
+}
+
+.hero_wrapper{
+    background-color: #222222;
+    margin: 0 -10px;
+    background-image: url(./images/pexels-tima-miroshnichenko-5698417.jpg);
+    background-size: cover;
+    background-position:center;
+}
