@@ -15,7 +15,6 @@ html{
     background-color: #22222200;
     color: #ffffff;
     text-align: center;
-    font-family: montserrat;
 }
 
 .hero_wrapper{
@@ -24,4 +23,27 @@ html{
     background-image: url(./images/pexels-tima-miroshnichenko-5698417.jpg);
     background-size: cover;
     background-position:center;
+}
+
+.bg {
+    padding: 60px 0;
+    margin: auto;
+    max-width: 1200px;
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: montserrat;
+}
+
+p {
+    font-family: lato;
+}
+
+.footer {
+    background-color: #222222;
+    text-align: center;
+    color: #ffffff;
+    margin: -10px;
+    padding: 10px 0;
 }
